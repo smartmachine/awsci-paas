@@ -15,8 +15,10 @@
     "aws-cdk": "^1.5.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-ec2": "^1.5.0",
+    "@aws-cdk/aws-elasticloadbalancingv2": "^1.5.0",
     "@aws-cdk/aws-lambda": "^1.5.0",
-    "@aws-cdk/aws-s3": "^1.5.0",
+    "@aws-cdk/aws-apigateway": "^1.5.0",
     "@aws-cdk/core": "^1.5.0"
   }
 }
