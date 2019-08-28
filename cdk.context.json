@@ -1,5 +1,5 @@
 {
-  "hosted-zone:account=865054731072:domainName=awsci.io:privateZone=false:region=eu-west-1": {
+  "hosted-zone:account=865054731072:domainName=awsci.io:region=eu-west-1": {
     "Id": "/hostedzone/Z3MYDE9M8ZTNP2",
     "Name": "awsci.io."
   }
