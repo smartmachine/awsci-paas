@@ -27,6 +27,7 @@
     "@aws-cdk/aws-route53": "^1.6.1",
     "@aws-cdk/aws-route53-targets": "^1.6.1",
     "@aws-cdk/aws-s3": "^1.6.1",
-    "@aws-cdk/core": "^1.6.1"
+    "@aws-cdk/core": "^1.6.1",
+    "@aws-cdk/aws-iam": "^1.6.1"
   }
 }
