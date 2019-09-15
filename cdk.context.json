@@ -1,6 +1,6 @@
 {
-  "hosted-zone:account=865054731072:domainName=awsci.io:region=eu-west-1": {
-    "Id": "/hostedzone/Z3MYDE9M8ZTNP2",
+  "hosted-zone:account=624049788999:domainName=awsci.io:region=eu-west-1": {
+    "Id": "/hostedzone/ZHHRHLXB6SECK",
     "Name": "awsci.io."
   }
 }
