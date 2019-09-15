@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "@types/node": "8.10.45",
-    "typescript": "^3.3.3333",
-    "aws-cdk": "^1.8.0"
+    "aws-cdk": "^1.8.0",
+    "typescript": "^3.6.3"
   },
   "dependencies": {
     "@aws-cdk/aws-apigateway": "^1.8.0",
